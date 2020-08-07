@@ -1,6 +1,6 @@
 {
   "name": "upimg-cli",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "upload image to github",
   "bin": {
     "upimg": "bin/index.js"
